@@ -1,0 +1,129 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	background-color: #3F5C9A;
+	border-bottom: 1px solid blue;
+	overflow:hidden;
+	
+
+
+}
+.wrapper{
+	width: 80%;
+	margin:0 auto;
+}
+.logo{
+	width: 20%;
+	padding-top: 30px;
+	padding-bottom: 15px;
+	float: left;
+
+}
+.logo p{
+	color: white;
+	font-size: 50px;
+	font-family: sans-serif;
+
+
+}
+.form_control{
+	width: 45%;
+	float: right;
+	overflow: hidden;
+	padding: 20px;
+}
+
+.email{
+	width: 30%;
+	color: #FFFFFF;
+	float: left;
+	padding: 15px;
+	padding-right: 0;
+
+}
+.Password{
+	width: 30%;
+	color: #FFFFFF;
+	float: left;
+	padding: 15px;
+	padding-right: 0;
+}
+.button {
+	width: 10%;
+	float: left;	
+	padding: 15px 0;
+}
+
+.button button{
+	
+	padding: 2px 5px;
+	background-color: #4267B2;
+	color: #FFFFFF;
+	border:2px;
+	border-radius: 1px;
+}
+/*section 2*/
+.placeholder{
+	width: 400px;
+	padding: 20px 10px;
+	border-color: #bdc7d8;
+    border-radius: 5px;
+}
+.banner {
+	background-color: #EFF1F7;
+	width: 100%;
+	float: left;
+	overflow: hidden;
+}
+.banber.left {
+	width: 50%;
+	float: left;
+}
+.banber.left p{
+	font-size: 22px;
+	padding left: 100px; 
+	color: #0E385F;
+	
+}
+.banber.left img{
+	text-align: center;
+	padding: 50px 80px 300px 100px;
+}
+.banner.right{
+	width: 45%;
+	float: right;
+}
+.banner.right h2{
+	font-size: 38px;
+	color: #333333;
+}
+.banner.right p{
+	font-size: 20px;
+	color: #333333;
+}
+.bannertext{
+	padding left: 20px;
+	width: 85%;
+	float: right;
+}
+form input{
+	 padding: 6px 8px;
+}
+.button1 button{
+	background-color: #69A455;
+	color: #FFFFFF;
+	padding: 13px 76px;
+	font-size: 20px;
+	border-radius: 8px;
+	font-weight: bold;
+}
+.footer {
+	width: 80%;
+	height: 200px;
+	color: #5D58BB;
+	padding-left: 135px;
+	font-size: 18px;
+	word-spacing: 20px;
+}
